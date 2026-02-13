@@ -55,7 +55,7 @@
 	"spaces_between_special_tokens": false,
 	"add_prefix_space": false,
 	"legacy": false,
-	"model_max_length": 2048,
+	"model_max_length": 1e5,
 	"sp_model_kwargs": {},
 	"tokenizer_class": "IndexTokenizer",
 	"auto_map": {
